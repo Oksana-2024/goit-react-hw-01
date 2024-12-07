@@ -9,6 +9,7 @@
   padding-top: 32px;
   margin-bottom: 40px;
   background-color: #fafafa;
+  font-family: "Poppins", sans-serif;
 }
 
 .avatar {
@@ -63,14 +64,14 @@
 .statsKey {
   margin-bottom: 6px;
   font-weight: 400;
-  font-size: 40px;
+  font-size: 36px;
   padding: 16px 0 8px;
   text-transform: capitalize;
 }
 
 .statsValue {
   font-weight: 500;
-  font-size: 48px;
+  font-size: 40px;
   line-height: 1.15;
   padding: 8px 0 16px;
 }
