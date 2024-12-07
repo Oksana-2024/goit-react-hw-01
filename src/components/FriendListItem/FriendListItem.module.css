@@ -22,8 +22,10 @@
 
 .friendOnline {
   color: #07e064;
+  font-size: 18px;
 }
 
 .friendOffline {
   color: #e80e1b;
+  font-size: 18px;
 }
